@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:divider="@null"
+        android:stackFromBottom="false" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <Button
+            android:id="@+id/about_btn"
+            android:layout_weight="1"
+            android:background="@color/link"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Aboout" />
+
+        <Button
+            android:id="@+id/churchgroupbtn_id"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:background="@color/link"
+            android:layout_height="wrap_content"
+            android:text="@string/ChurchGroup" />
+
+        <Button
+            android:id="@+id/chrchnews_id"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:background="@color/link"
+            android:layout_height="wrap_content"
+            android:text="@string/ChurchNews" />
+
+        <Button
+            android:id="@+id/dailyread_id"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:background="@color/link"
+            android:layout_height="wrap_content"
+            android:text="@string/DailyRead" />
+
+        <Button
+            android:id="@+id/charitybtn_id"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:background="@color/link"
+            android:layout_height="wrap_content"
+            android:text="@string/Charity" />
+    </LinearLayout>
+
+</RelativeLayout>

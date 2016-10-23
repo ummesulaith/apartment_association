@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chickkamana Halli Church</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string-array name="languages">
+
+        <item> English</item>
+        <item> Kannada </item>
+
+
+    </string-array>
+
+
+    <string name="Aboout">About</string>
+    <string name="ChurchGroup">ChurchGroup</string>
+    <string name="ChurchNews">ChurchNews</string>
+    <string name="DailyRead">DailyRead</string>
+    <string name="Charity">Charity</string>
+
+    <string-array name="tab_A">
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldcbvcxks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+
+    </string-array>
+
+    <string-array name="tab_B">
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgkscb/c,xcgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdglbcxbxmdks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+    </string-array>
+
+    <string-array name="tab_C">
+        <item>kjhdkjc,.vx,.hjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksbcbmxgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgkscbc/.b,gdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+        <item>kjhdkjhjdjh</item>
+        <item>gdlgksgdskgnjkldsjgs</item>
+        <item>dgdgldks</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
