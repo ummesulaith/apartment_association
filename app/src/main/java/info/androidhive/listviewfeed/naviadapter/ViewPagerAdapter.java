@@ -1,59 +1,55 @@
 package info.androidhive.listviewfeed.naviadapter;
 
+import android.content.Context;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
-import android.util.Log;
-import android.widget.Toast;
 
-import info.androidhive.listviewfeed.activity.Home;
-import info.androidhive.listviewfeed.fragment.Fragment_Charity;
-import info.androidhive.listviewfeed.fragment.Fragment_ChurchGroup;
-import info.androidhive.listviewfeed.fragment.Fragment_Church_News;
-import info.androidhive.listviewfeed.fragment.Fragment_Daily_Read;
-import info.androidhive.listviewfeed.fragment.Fragment_about;
-
-import static info.androidhive.listviewfeed.imagelibrary.UrlFeed.URL_CHARITY_INFO;
-import static info.androidhive.listviewfeed.imagelibrary.UrlFeed.URL_FEED;
-import static info.androidhive.listviewfeed.imagelibrary.UrlFeed.URL_FEED_ABOUT;
-import static info.androidhive.listviewfeed.imagelibrary.UrlFeed.URL_FEED_CHAT_GROUP;
-import static info.androidhive.listviewfeed.imagelibrary.UrlFeed.URL_FEED_CHURCH_NEWS;
-import static info.androidhive.listviewfeed.imagelibrary.UrlFeed.URL_READ_MSG;
+import info.androidhive.listviewfeed.Frag_ment.Fragment_MyEvents;
+import info.androidhive.listviewfeed.fragment.Fragment_Events;
+import info.androidhive.listviewfeed.Frag_ment.Fragment_NoticeBoard;
+import info.androidhive.listviewfeed.Frag_ment.Fragment_Found_and_Loss;
+import info.androidhive.listviewfeed.Frag_ment.Fragment_Complaints;
+import info.androidhive.listviewfeed.Frag_ment.Fragment_BuyandSell;
+import info.androidhive.listviewfeed.Frag_ment.Fragment_About_us;
 
 /**
  * Created by HyeHailyn on 10/20/2016.
  */
 public class ViewPagerAdapter extends FragmentPagerAdapter {
 
+
     public ViewPagerAdapter(FragmentManager fm) {
         super(fm);
     }
+
 
     @Override
     public Fragment getItem(int position) {
         Fragment fragment = null;
 
-
-        switch(position){
+        switch (position) {
 
 
             case 0:
-                fragment = new DisplayContent();
+                fragment = new Fragment_MyEvents();
                 break;
             case 1:
-                fragment = new Fragment_Church_News();
+                fragment = new Fragment_Complaints();
                 break;
             case 2:
-                fragment = new Fragment_ChurchGroup();
+                fragment = new Fragment_Found_and_Loss();
                 break;
             case 3:
-                fragment = new Fragment_Daily_Read();
+                fragment = new Fragment_BuyandSell();
                 break;
             case 4:
-                fragment = new Fragment_Charity();
+                fragment = new Fragment_NoticeBoard();
                 break;
             case 5:
-                fragment = new Fragment_about();
+                fragment = new Fragment_About_us();
+            case 6:
+
                 break;
             default:
                 break;
@@ -71,27 +67,57 @@ public class ViewPagerAdapter extends FragmentPagerAdapter {
     @Override
     public CharSequence getPageTitle(int position) {
         String title = null;
+        Context context = null;
 
 
-        switch(position){
+        switch (position) {
 
             case 0:
-                title = "Feeds";
+
+                    title = "Events";
+
+
                 break;
             case 1:
-                title = "ChurchNews";
+
+
+                    title = "Complaints";
+
+
+
+
                 break;
             case 2:
-                title = "ChurchGroup";
+
+
+                    title = "Found and Loss";
+
+
+
+
+
                 break;
             case 3:
-                title = "DailyRead";
+
+
+                    title = "Buy and Sell";
+
+
                 break;
             case 4:
-                title = "Charity";
+
+
+                    title = "Notice Board";
+
+
+
                 break;
             case 5:
-                title = "About";
+
+
+                    title = "About us";
+
+
                 break;
             default:
                 break;

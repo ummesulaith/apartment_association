@@ -24,15 +24,16 @@
                 android:layout_width="match_parent"
 
                 android:layout_height="match_parent"
-                android:src="@drawable/church" />
+                android:src="@drawable/twitter" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:id="@+id/churchname"
                 android:layout_gravity="bottom"
                 android:layout_marginLeft="20dp"
                 android:padding="@dimen/activity_horizontal_margin"
-                android:text="Church"
+                android:text="Rev APP"
                 android:textAppearance="@android:style/TextAppearance.Medium"
                 android:textColor="@color/white" />
 
@@ -54,8 +55,8 @@
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:padding="@dimen/activity_horizontal_margin"
-                android:text="Feeds"
-                android:textAppearance="?android:attr/textAppearanceLarge" />
+                android:text="Dashboard"
+                android:textAppearance="?android:attr/textAppearanceListItemSmall" />
 
             <TextView
                 android:id="@+id/textView3"
@@ -64,8 +65,9 @@
 
                 android:layout_weight="1"
                 android:padding="@dimen/activity_horizontal_margin"
-                android:text="Church News"
-                android:textAppearance="?android:attr/textAppearanceLarge" />
+                android:text="My Profile"
+                android:textAppearance="?android:attr/textAppearanceListItemSmall" />
+
 
             <TextView
                 android:id="@+id/textView4"
@@ -73,8 +75,8 @@
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:padding="@dimen/activity_horizontal_margin"
-                android:text="Church Group"
-                android:textAppearance="?android:attr/textAppearanceLarge" />
+                android:text="My Soceity"
+                android:textAppearance="?android:attr/textAppearanceListItemSmall" />
 
             <TextView
                 android:id="@+id/textView5"
@@ -82,8 +84,8 @@
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:padding="@dimen/activity_horizontal_margin"
-                android:text="Daily Read"
-                android:textAppearance="?android:attr/textAppearanceLarge" />
+                android:text="My Events"
+                android:textAppearance="?android:attr/textAppearanceListItemSmall" />
 
             <TextView
                 android:id="@+id/textView6"
@@ -91,8 +93,8 @@
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:padding="@dimen/activity_horizontal_margin"
-                android:text="Charity"
-                android:textAppearance="?android:attr/textAppearanceLarge" />
+                android:text="Notification"
+                android:textAppearance="?android:attr/textAppearanceListItemSmall" />
 
             <TextView
                 android:id="@+id/textView7"
@@ -100,8 +102,10 @@
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:padding="@dimen/activity_horizontal_margin"
-                android:text="About"
-                android:textAppearance="?android:attr/textAppearanceLarge" />
+                android:text="Log out"
+                android:textAppearance="?android:attr/textAppearanceListItemSmall" />
+
+
 
 
         </LinearLayout>
@@ -111,7 +115,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_alignParentBottom="true"
-            android:layout_weight="0.02"
+            android:layout_weight="0.05"
             android:background="#257e7e"></View>
     </LinearLayout>
 

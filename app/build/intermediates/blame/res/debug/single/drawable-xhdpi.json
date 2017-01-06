@@ -1,26 +1,22 @@
 [
     {
-        "merged": "D:\\Life\\Facebook Like FeedView2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\drawer_shadow.9.png",
-        "source": "D:\\Life\\Facebook Like FeedView2\\app\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+        "merged": "D:\\umme\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\drawer_shadow.9.png",
+        "source": "D:\\umme\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
     },
     {
-        "merged": "D:\\Life\\Facebook Like FeedView2 - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_drawer.png",
-        "source": "D:\\Life\\Facebook Like FeedView2 - Copy\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+        "merged": "D:\\umme\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_drawer.png",
+        "source": "D:\\umme\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
     },
     {
-        "merged": "D:\\Life\\Facebook Like FeedView2 - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "D:\\Life\\Facebook Like FeedView2 - Copy\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "D:\\umme\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\foundloss.png",
+        "source": "D:\\umme\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\foundloss.png"
     },
     {
-        "merged": "D:\\Life\\Facebook Like FeedView2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "D:\\Life\\Facebook Like FeedView2\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "D:\\umme\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\umme\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Life\\Facebook Like FeedView2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_drawer.png",
-        "source": "D:\\Life\\Facebook Like FeedView2\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
-    },
-    {
-        "merged": "D:\\Life\\Facebook Like FeedView2 - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\drawer_shadow.9.png",
-        "source": "D:\\Life\\Facebook Like FeedView2 - Copy\\app\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+        "merged": "D:\\umme\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\comedy.png",
+        "source": "D:\\umme\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\comedy.png"
     }
 ]
