@@ -7,6 +7,8 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+import android.widget.Spinner;
 
 import info.androidhive.listviewfeed.R;
 
@@ -19,7 +21,7 @@ import info.androidhive.listviewfeed.R;
  * create an instance of this fragment.
  */
 public class Itsoktocomplain extends Fragment {
-
+    String[] items = {"Books","Furniture","Flat","Vehicles","Machinery","Equipments"};
 
 
     public Itsoktocomplain() {
@@ -32,7 +34,13 @@ public class Itsoktocomplain extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_itsoktocomplain, container, false);
+        View rootView = inflater.inflate(R.layout.fragment_itsoktocomplain, container, false);
+        Spinner sp = (Spinner) rootView.findViewById(R.id.sp);
+        ArrayAdapter<String> ab = new ArrayAdapter<String>(getActivity(), android.R.layout.simple_list_item_1,items);
+        sp.setAdapter(ab);
+        return rootView;
+
+    }
     }
 
 
@@ -51,4 +59,4 @@ public class Itsoktocomplain extends Fragment {
      * >Communicating with Other Fragments</a> for more information.
      */
 
-}
+

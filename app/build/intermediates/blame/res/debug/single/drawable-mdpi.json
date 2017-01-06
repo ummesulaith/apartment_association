@@ -1,14 +1,14 @@
 [
     {
-        "merged": "D:\\umme\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "D:\\umme\\RevApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
+        "source": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
     },
     {
-        "merged": "D:\\umme\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\drawer_shadow.9.png",
-        "source": "D:\\umme\\RevApp\\app\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
+        "merged": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\drawer_shadow.9.png",
+        "source": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
     },
     {
-        "merged": "D:\\umme\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
-        "source": "D:\\umme\\RevApp\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+        "merged": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]

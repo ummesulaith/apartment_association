@@ -43,7 +43,7 @@ public class Fragment_Complaints extends Fragment {
                 FragmentManager fragmentManager = getFragmentManager();
                 FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 
-                Fragment_Complaints f2 = new Fragment_Complaints();
+                Itsoktocomplain f2 = new Itsoktocomplain();
                 fragmentTransaction.replace(R.id.Container, f2);
                 fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
                 fragmentTransaction.addToBackStack(null);
