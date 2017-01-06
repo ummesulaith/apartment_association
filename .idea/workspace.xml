@@ -9,24 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c071b53b-f372-4c13-aa78-0a0dde435f0c" name="Default" comment="Successful">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/akshar.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hum.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hum1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Complaint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_About_us.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_BuyandSell.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_Complaints.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_Found_and_Loss.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_Home_List.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_MyEvents.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_NoticeBoard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_SellandBuy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/fragment/Fragment_Events.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_fragmet__sell.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+    <list default="true" id="c071b53b-f372-4c13-aa78-0a0dde435f0c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Itsoktocomplain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_itsoktocomplain.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_24_2_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_24_2_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/design_24_2_1.xml" afterPath="" />
@@ -34,419 +19,129 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/kenburnsview_1_0_7.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/librarypack_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_24_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_24_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_24_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_24_2_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_24_2_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_24_2_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_24_2_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_24_2_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_24_2_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/volley.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook Like FeedView2 - Copy.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Facebook Like FeedView2.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TGNaonao.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/montana_regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/color.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/layout.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/activity/Home$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/activity/MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/activity/MainActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/activity/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/activity/SelectLanguage$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/activity/SelectLanguage$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/activity/SelectLanguage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/adapter/AboutChurchFeedListAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/adapter/CharityInfoFeedListAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/adapter/CharityInfoFeedListAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/adapter/ChurchGroupFeedListAdapater$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/adapter/ChurchGroupFeedListAdapater.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/adapter/ChurchNewsFeedListAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/adapter/ChurchNewsFeedListAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/adapter/DailyReadFeedListAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/adapter/DailyReadFeedListAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/adapter/FeedListAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/adapter/FeedListAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/app/AppController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/data/AboutFeedItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/data/CharityInfoFeedItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/data/ChurchGroupFeedItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/data/ChurchNewsFeedItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/data/DailyReadFeedItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/data/FeedItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_Charity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_Charity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_Charity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_ChurchGroup$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_ChurchGroup$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_ChurchGroup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_Church_News$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_Church_News$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_Church_News.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_Daily_Read$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_Daily_Read$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_Daily_Read.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_about$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_about$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/fragment/Fragment_about.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/AboutUsFeedimageView$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/AboutUsFeedimageView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/AboutUsFeedimageView$ResponseObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/AboutUsFeedimageView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/CharityInfoFeedImageView$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/CharityInfoFeedImageView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/CharityInfoFeedImageView$ResponseObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/CharityInfoFeedImageView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/ChurchGroupFeedImageView$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/ChurchGroupFeedImageView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/ChurchGroupFeedImageView$ResponseObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/ChurchGroupFeedImageView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/ChurchNewsFeedImageView$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/ChurchNewsFeedImageView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/ChurchNewsFeedImageView$ResponseObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/ChurchNewsFeedImageView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/DailyReadFeedImageView$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/DailyReadFeedImageView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/DailyReadFeedImageView$ResponseObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/DailyReadFeedImageView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/FeedImageView$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/FeedImageView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/FeedImageView$ResponseObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/FeedImageView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/NavigationDrawerFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/NavigationDrawerFragment$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/NavigationDrawerFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/NavigationDrawerFragment$NavigationDrawerCallbacks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/NavigationDrawerFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/imagelibrary/UrlFeed.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/naviadapter/DisplayContent$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/naviadapter/DisplayContent$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/naviadapter/DisplayContent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/naviadapter/FragmentA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/naviadapter/FragmentB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/naviadapter/FragmentC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/text/TestActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/volley/LruBitmapCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/annotations.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/proguard.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/public.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/aidl/android/support/v4/os/ResultReceiver.aidl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/annotations.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/annotations.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/proguard.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/ldFvNhLLQRS6nP3PAj1uiZuQsLY=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_317c848f11bfa7d4dc56d33543950c0c5f253f66.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_7638cf791581e65a4221acbb5d5ccceebbe3c449.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_ad8d6509d6e63aeaff9247d775486e158fa39205.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_f2461a35e4d472ce8fabf34b4d763e583ddd1c08.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_699d3a318478714715b5a94072cfc4db8b0b3b38.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_bc668e23a5942ca6a4cfa51432b5ecc5bdc7383e.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_9ddb6149e91d5b198e30fd4d7c5fd318df7ad9c9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_bfc086714ec00eb7eef849a08e948aa56851497b.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_9574e4073c30cacef48a460be41a4631e0df9942.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_7d04cbd2154e5acb0c8eef1be854ac28a9a132cd.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_871b614b344a08b63f8a7daa9bc28e0d03c8a17a.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.kennileaf.customfonts-librarypack-1.0.0_1434c18ee9d89be4fa3a4d3d6a448389532d98d1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_e22075ec58a333d5c5f9b822b3c662465e2a1484.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9f14164bb65ecac9157a370293d5ffa5a3296d98.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bd1945630af1bf2d11884a78dcf5fb980d8605e4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c912c06170b2cd39210ec2d34465505d1553a1fa.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_dfe49eb75873cdd8e9abff889c3d031c3f77f592.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ed07afdc7f78e54ba18e99d575e8fc5b6b338c5c.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/kenburnsview-1.0.7_1ba108b43cb4c7b1351748a079d616f47fca00c5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_9d30b62ad2551c693e7d158212f77c61114cfc86.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/volley_0d3445a6bde00dac0e17923b11b5349a46bc305d.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/church.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_select_language.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/charity_info_feed_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/church_group_feed_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/churchnews_feed_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/daily_read_feed_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/drawer_main2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/feed_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_charity.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_church_group.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_church_news.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_daily_read.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_display_content.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_main2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/activity/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/activity/SelectLanguage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/adapter/AboutChurchFeedListAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/adapter/CharityInfoFeedListAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/adapter/ChurchGroupFeedListAdapater.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/adapter/ChurchNewsFeedListAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/adapter/DailyReadFeedListAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/adapter/FeedListAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/app/AppController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/data/AboutFeedItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/data/CharityInfoFeedItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/data/ChurchGroupFeedItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/data/ChurchNewsFeedItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/data/DailyReadFeedItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/data/FeedItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/fragment/Fragment_Charity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/fragment/Fragment_ChurchGroup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/fragment/Fragment_Church_News.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/fragment/Fragment_Daily_Read.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/fragment/Fragment_about.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/imagelibrary/AboutUsFeedimageView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/imagelibrary/CharityInfoFeedImageView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/imagelibrary/ChurchGroupFeedImageView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/imagelibrary/ChurchNewsFeedImageView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/imagelibrary/DailyReadFeedImageView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/imagelibrary/FeedImageView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/imagelibrary/NavigationDrawerFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/imagelibrary/UrlFeed.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/naviadapter/DisplayContent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/naviadapter/FragmentA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/naviadapter/FragmentB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/naviadapter/FragmentC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/text/TestActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/volley/LruBitmapCache.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/church.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_select_language.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/charity_info_feed_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/church_group_feed_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/churchnews_feed_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/daily_read_feed_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/drawer_main2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/feed_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_charity.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_church_group.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_church_news.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_daily_read.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_display_content.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_main2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az-rAZ/values-az-rAZ.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be-rBY/values-be-rBY.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn-rBD/values-bn-rBD.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs-rBA/values-bs-rBA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et-rEE/values-et-rEE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu-rES/values-eu-rES.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu-rIN/values-gu-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy-rAM/values-hy-rAM.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is-rIS/values-is-rIS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km-rKH/values-km-rKH.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn-rIN/values-kn-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky-rKG/values-ky-rKG.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml-rIN/values-ml-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn-rMN/values-mn-rMN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr-rIN/values-mr-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa-rIN/values-pa-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si-rLK/values-si-rLK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq-rAL/values-sq-rAL.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta-rIN/values-ta-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur-rPK/values-ur-rPK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/kennileaf/librarypack/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/kennileaf/librarypack/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/kennileaf/librarypack/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/kennileaf/librarypack/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/kennileaf/librarypack/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/kennileaf/librarypack/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/kennileaf/librarypack/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/kennileaf/librarypack/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/activity/Home$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/activity/Home$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/activity/Home.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/activity/Home.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/naviadapter/DrawerFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/naviadapter/DrawerFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/naviadapter/RecyclerViewAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/naviadapter/RecyclerViewAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/naviadapter/ViewPagerAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/info/androidhive/listviewfeed/naviadapter/ViewPagerAdapter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/kennileaf/librarypack/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/kennileaf/librarypack/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/info/androidhive/listviewfeed/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/info/androidhive/listviewfeed/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-af.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-af.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-am.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-am.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ar.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ar.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-az-rAZ.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-az-rAZ.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-b+sr+Latn.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-b+sr+Latn.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-be-rBY.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-be-rBY.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-bg.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-bg.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-bs-rBA.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-bs-rBA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ca.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ca.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-cs.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-cs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-da.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-da.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-de.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-de.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-el.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-el.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en-rAU.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en-rAU.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en-rGB.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en-rGB.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-en-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-es-rUS.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-es-rUS.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-es.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-es.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-et-rEE.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-et-rEE.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-eu-rES.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-eu-rES.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fa.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fa.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-fr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-gl-rES.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-gl-rES.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-gu-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-gu-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hu.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-in.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-in.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-is-rIS.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-is-rIS.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-it.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-it.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-iw.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-iw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ja.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ja.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-kk-rKZ.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-kk-rKZ.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-km-rKH.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-km-rKH.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-kn-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-kn-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ko.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ko.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ky-rKG.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ky-rKG.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-land.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-land.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-large-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-large-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ldltr-v21.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ldltr-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-lt.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-lt.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-lv.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-lv.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ml-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ml-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-mn-rMN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-mn-rMN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ms-rMY.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ms-rMY.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-my-rMM.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-my-rMM.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-nb.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-nb.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-night-v8.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-night-v8.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-nl.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-nl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pa-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pa-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pl.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-port.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-port.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pt-rBR.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pt-rBR.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pt.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-pt.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ro.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ro.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ru.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ru.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-si-rLK.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-si-rLK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sk.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sl.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sq-rAL.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sq-rAL.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sv.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sv.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sw.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-te-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-te-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-th.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-th.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-tl.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-tl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-tr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-tr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-uk.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-uk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v11.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v11.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v12.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v12.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v14.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v14.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v17.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v17.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v18.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v18.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v21.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v22.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v22.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v23.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v23.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-vi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-vi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zu.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim-v21.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color-v11.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color-v11.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color-v23.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color-v23.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi-v17.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi-v17.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi-v17.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi-v17.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi-v17.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi-v17.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi-v17.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi-v17.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi-v17.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi-v17.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-v21.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-v23.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-v23.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout-sw600dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout-sw600dp-v13.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/menu.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/menu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-hdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-hdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-mdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-mdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-xhdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-xhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-xxhdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-xxhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-xxxhdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-xxxhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/bg_parent_rounded_corner.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/bg_parent_rounded_corner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_home.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/drawyer_laout_items.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/drawyer_laout_items.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_about.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/fragment_about.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/recycler_view_list_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/recycler_view_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/activity/Home.java" afterPath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/activity/Home.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/naviadapter/DrawerFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/naviadapter/DrawerFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/naviadapter/ViewPagerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/naviadapter/ViewPagerAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_parent_rounded_corner.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_parent_rounded_corner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/drawyer_laout_items.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/drawyer_laout_items.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_about.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_about.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/recycler_view_list_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/recycler_view_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
     </list>
     <ignored path="RevApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -494,74 +189,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="fragment_complaints.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_complaints.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_buyandsell.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_buyandsell.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_fragmet__sell.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fragment_fragmet__sell.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_fragmet__sell.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3230">
-              <caret line="190" column="0" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+            <state relative-caret-position="317">
+              <caret line="42" column="21" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fragment_Complaints.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_Complaints.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fragment_BuyandSell.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_BuyandSell.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="my_complaints.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/my_complaints.xml">
+      <file leaf-file-name="fragment_itsoktocomplain.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_itsoktocomplain.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-              <folding />
+            <state relative-caret-position="221">
+              <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+              <folding>
+                <element signature="e#435#468#0" expanded="true" />
+                <element signature="e#499#532#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -2307,6 +1959,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_Complaints.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_fragment__home__list.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_fragmet__sell.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Itsoktocomplain.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_itsoktocomplain.xml" />
       </list>
     </option>
   </component>
@@ -2349,6 +2003,62 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="RevApp" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RevApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RevApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RevApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RevApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -2670,6 +2380,14 @@
       <option name="presentableId" value="Default" />
       <updated>1483418742349</updated>
     </task>
+    <task id="LOCAL-00001" summary="Successful">
+      <created>1483690359062</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1483690359062</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -2695,7 +2413,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2703,7 +2421,7 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2881997" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -2739,39 +2457,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_complaints.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_buyandsell.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_fragmet__sell.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2975">
-          <caret line="175" column="21" selection-start-line="175" selection-start-column="9" selection-end-line="175" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_Complaints.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -2884,6 +2569,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1853">
           <caret line="109" column="38" selection-start-line="106" selection-start-column="4" selection-end-line="109" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2894,6 +2580,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
           <caret line="55" column="47" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2926,6 +2613,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2936,6 +2624,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2956,6 +2645,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2977,6 +2667,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2987,6 +2678,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3030,6 +2722,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="143" column="23" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3062,6 +2755,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="11" column="41" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3076,14 +2770,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Complaint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_fragment__home__list.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -3091,6 +2777,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
           <caret line="34" column="7" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3104,19 +2791,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_BuyandSell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_complaint.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_MyComplaints.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_Complaints.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="612">
+          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -3126,16 +2805,43 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="215">
           <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_Complaints.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_MyComplaints.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+        <state relative-caret-position="-36">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Complaint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_BuyandSell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_buyandsell.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -3146,18 +2852,58 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_buyandsell.xml">
-      <provider editor-type-id="android-designer2">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/layout/Itsoktocomplain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/layout/Itsoktocomplain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_itsokto_complain.xml">
+      <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/ItsoktoComplain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Fragment_About_us.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/info/androidhive/listviewfeed/Frag_ment/Itsoktocomplain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -3167,9 +2913,23 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3230">
-          <caret line="190" column="0" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+        <state relative-caret-position="317">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_itsoktocomplain.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+          <folding>
+            <element signature="e#435#468#0" expanded="true" />
+            <element signature="e#499#532#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
