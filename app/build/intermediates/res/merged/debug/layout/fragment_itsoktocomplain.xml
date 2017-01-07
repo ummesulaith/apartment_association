@@ -36,27 +36,27 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="vertical">
-
-
-
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp">
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text=" Complaint Type"
+                android:text=" Complaint Type "
                 android:textSize="20dp"
                 android:textColor="#000"
                 android:textStyle="bold"/>
             <Spinner
-                android:layout_width="150dp"
+                android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
                 android:id="@+id/sper">
             </Spinner>
 
         </LinearLayout>
+
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -68,7 +68,7 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text="Severity "
+                android:text=" Severity "
                 android:textSize="20dp"
                 android:textColor="#000"
                 android:textStyle="bold"/>
@@ -140,7 +140,7 @@
             android:paddingBottom="10dp"
             android:paddingTop="10dp">
             <TextView
-                android:layout_width="0dp"
+                android:layout_width="match_parent"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
                 android:text=" Details "
@@ -148,7 +148,7 @@
                 android:textColor="#000"
                 android:textStyle="bold"/>
             <EditText
-                android:layout_width="0dp"
+                android:layout_width="match_parent"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
                 android:id="@+id/desc"
@@ -169,7 +169,7 @@
         <View
             android:id="@+id/sep3"
             android:layout_width="match_parent"
-            android:layout_height="10dp"
+            android:layout_height="25dp"
             android:layout_marginBottom="5dp"
             android:background="#FFFAFA" />
 
@@ -205,9 +205,12 @@
         <View
             android:id="@+id/sep4"
             android:layout_width="match_parent"
-            android:layout_height="30dp"
+            android:layout_height="25dp"
             android:layout_marginBottom="5dp"
             android:background="#FFFAFA" />
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></ScrollView>
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

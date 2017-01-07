@@ -21,8 +21,8 @@ import info.androidhive.listviewfeed.R;
  * create an instance of this fragment.
  */
 public class Itsoktocomplain extends Fragment {
-    String[] items = {"Books","Furniture","Flat","Vehicles","Machinery","Equipments"};
-
+    String[] type = {"Water","Electricity","Neighbours","Others"};
+    String[] priority = {"High","Medium","Low"};
 
     public Itsoktocomplain() {
         // Required empty public constructor
@@ -35,9 +35,12 @@ public class Itsoktocomplain extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View rootView = inflater.inflate(R.layout.fragment_itsoktocomplain, container, false);
-        Spinner sp = (Spinner) rootView.findViewById(R.id.sp);
-        ArrayAdapter<String> ab = new ArrayAdapter<String>(getActivity(), android.R.layout.simple_list_item_1,items);
-        sp.setAdapter(ab);
+        Spinner sper = (Spinner) rootView.findViewById(R.id.sper);
+        Spinner sper1 = (Spinner) rootView.findViewById(R.id.sper1);
+        ArrayAdapter<String> ac = new ArrayAdapter<String>(getActivity(), android.R.layout.simple_list_item_1,type);
+        ArrayAdapter<String> ad = new ArrayAdapter<String>(getActivity(), android.R.layout.simple_list_item_1,priority);
+        sper.setAdapter(ac);
+        sper1.setAdapter(ad);
         return rootView;
 
     }

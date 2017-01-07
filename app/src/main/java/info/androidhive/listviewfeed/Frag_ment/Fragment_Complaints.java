@@ -17,7 +17,7 @@ import info.androidhive.listviewfeed.activity.Home;
 public class Fragment_Complaints extends Fragment {
     public Button b2;
     ArrayAdapter<String> ac;
-
+    ArrayAdapter<String> ad;
 
     public Fragment_Complaints() {
         // Required empty public constructor
@@ -36,6 +36,7 @@ public class Fragment_Complaints extends Fragment {
         // Inflate the layout for this fragment
         View rootView= inflater.inflate(R.layout.fragment_complaints, container, false);
         ac = new ArrayAdapter<String>(getActivity().getApplicationContext(),android.R.layout.simple_list_item_1);
+        ad = new ArrayAdapter<String>(getActivity().getApplicationContext(),android.R.layout.simple_list_item_1);
         b2 = (Button) rootView.findViewById(R.id.complaintsbtn);
         b2.setOnClickListener(new View.OnClickListener() {
             @Override

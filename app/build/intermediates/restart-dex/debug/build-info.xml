@@ -5,33 +5,40 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="253678593783103"
+    timestamp="317696155698259"
     token="4124055953145131848"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="11121" />
+        duration="2920" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="12696" />
+        duration="199" />
     <task
         name="verifier"
-        duration="4054" />
+        duration="13" />
 
     <artifact
-        location="C:\Users\Umme\Desktop\w\new_updated\RevApp\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\Umme\Desktop\w\new_updated\RevApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="253678593783103"
+        timestamp="316993235988653"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Umme\Desktop\w\new_updated\RevApp\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="317696155698259"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Umme\Desktop\w\new_updated\RevApp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

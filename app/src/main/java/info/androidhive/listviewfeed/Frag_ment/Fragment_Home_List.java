@@ -84,7 +84,7 @@ public class Fragment_Home_List extends Fragment {
                 FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 
                Fragment_Complaints mAboutFragment = new Fragment_Complaints();
-                fragmentTransaction.add(R.id.Container, mAboutFragment);
+                fragmentTransaction.replace(R.id.Container, mAboutFragment);
                // fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
                 fragmentTransaction.addToBackStack(null);
                 fragmentTransaction.commit();
@@ -100,7 +100,7 @@ public class Fragment_Home_List extends Fragment {
                 FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 
                 Fragment_About_us mAboutFragment = new Fragment_About_us();
-                fragmentTransaction.add(R.id.Container, mAboutFragment);
+                fragmentTransaction.replace(R.id.Container, mAboutFragment);
                 fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);   fragmentTransaction.addToBackStack(null);
                 fragmentTransaction.commit();
 
