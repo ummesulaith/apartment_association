@@ -3,6 +3,7 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
+    android:background="#FFFF"
     tools:context=".Frag_ment.Fragment_SellandBuy">
 
     <!-- TODO: Update blank fragment layout -->
@@ -147,7 +148,9 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Add Photos Here"/>
+            android:text="Add Photos Here"
+            android:background="#0033FF"
+           />
 
 
 
