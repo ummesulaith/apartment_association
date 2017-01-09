@@ -99,12 +99,12 @@ public class Fragment_Home_List extends Fragment {
                 FragmentManager fragmentManager = getFragmentManager();
                 FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 
-                Fragment_About_us mAboutFragment = new Fragment_About_us();
+                Fragment_Found_and_Loss mAboutFragment = new Fragment_Found_and_Loss();
                 fragmentTransaction.replace(R.id.Container, mAboutFragment);
                 fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);   fragmentTransaction.addToBackStack(null);
                 fragmentTransaction.commit();
 
-                Home.title.setText("Foind And Loss");
+                Home.title.setText("Service Board");
             }
         }); l_events.setOnClickListener(new View.OnClickListener() {
             @Override

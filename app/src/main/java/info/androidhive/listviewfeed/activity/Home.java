@@ -19,19 +19,27 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
+
+import info.androidhive.listviewfeed.Database.DatabaseHelper;
 import info.androidhive.listviewfeed.R;
 import info.androidhive.listviewfeed.Frag_ment.Fragment_Home_List;
+import info.androidhive.listviewfeed.fragment.Fragment_Profile;
 import info.androidhive.listviewfeed.naviadapter.Constants;
 import info.androidhive.listviewfeed.naviadapter.DrawerFragment;
 import info.androidhive.listviewfeed.naviadapter.ViewPagerAdapter;
-
+import info.androidhive.listviewfeed.fragment.Fragment_Profile;
 
 public class Home extends AppCompatActivity {
 
 
+  // DatabaseHelper myDb;
+    //EditText editTextusername,editTextname,editTextflatno,editTextemail ,editTextcontactno;
+  // Button btnsave;
     TabLayout tabLayout;
     ViewPager viewPager;
     ViewPagerAdapter viewPagerAdapter;
@@ -45,6 +53,8 @@ public class Home extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
+    //  myDb = new DatabaseHelper(this);
+
 
 
 
@@ -65,6 +75,9 @@ public class Home extends AppCompatActivity {
         fragmentTransaction.replace(R.id.Container, mAboutFragment,"home");
         fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
         fragmentTransaction.commit();
+
+       // AddSave();
+
 
 
     }
@@ -114,7 +127,6 @@ public class Home extends AppCompatActivity {
 
 
     }
-
 
 
     }

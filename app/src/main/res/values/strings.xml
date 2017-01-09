@@ -117,5 +117,6 @@
     <string name="newer">Newer</string>
     <string name="neww">+New</string>
     <string name="title">Title</string>
+    <string name="username">UserName</string>
 
 </resources>

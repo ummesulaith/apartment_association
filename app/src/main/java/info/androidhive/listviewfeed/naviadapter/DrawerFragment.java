@@ -140,7 +140,8 @@ public class DrawerFragment extends Fragment implements View.OnClickListener {
 
                 Fragment_Profile mAboutFragment1 = new Fragment_Profile();
                 fragmentTransaction1.replace(R.id.Container, mAboutFragment1);
-                fragmentTransaction1.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);   fragmentTransaction1.addToBackStack(null);
+                fragmentTransaction1.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
+                fragmentTransaction1.addToBackStack(null);
 
                 fragmentTransaction1.commit();
 
