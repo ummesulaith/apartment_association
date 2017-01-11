@@ -63,7 +63,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
-                android:text="Events"
+                android:text="BOOKS"
                 android:textStyle="bold"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:layout_weight="0.30"
@@ -72,7 +72,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
-                android:text="Manage Your Events"
+                android:text=" All type of books "
                 android:textAppearance="@style/TextAppearance.AppCompat.Small"
                 android:layout_weight="0.40"/>
         </LinearLayout>

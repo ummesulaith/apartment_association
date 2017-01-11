@@ -59,7 +59,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:text="Events"
+                    android:text="Mobile and Tablets"
                     android:textStyle="bold"
                     android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                     android:layout_weight="0.30"
@@ -78,7 +78,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="Event"
+                android:text="Eletronics and Appliances"
                 android:textStyle="bold"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:layout_weight="0.30"
@@ -96,7 +96,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="Even"
+                android:text="Vehicles"
                 android:textStyle="bold"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:layout_weight="0.30" />
@@ -113,7 +113,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="Eve"
+                android:text="Furnitures"
                 android:textStyle="bold"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:layout_weight="0.30"
@@ -131,7 +131,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="Ev"
+                android:text="Pets"
                 android:textStyle="bold"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:layout_weight="0.30"
@@ -148,7 +148,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="E"
+                android:text="Kids Section"
                 android:textStyle="bold"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:layout_weight="0.30"
