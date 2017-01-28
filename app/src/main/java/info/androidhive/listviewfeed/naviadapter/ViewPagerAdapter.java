@@ -6,12 +6,11 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
 import info.androidhive.listviewfeed.Frag_ment.Fragment_MyEvents;
-import info.androidhive.listviewfeed.fragment.Fragment_Events;
-import info.androidhive.listviewfeed.Frag_ment.Fragment_NoticeBoard;
-import info.androidhive.listviewfeed.Frag_ment.Fragment_Found_and_Loss;
+import info.androidhive.listviewfeed.Frag_ment.Fragment_Service_Board;
 import info.androidhive.listviewfeed.Frag_ment.Fragment_Complaints;
 import info.androidhive.listviewfeed.Frag_ment.Fragment_BuyandSell;
 import info.androidhive.listviewfeed.Frag_ment.Fragment_About_us;
+import info.androidhive.listviewfeed.fragment.Notifications;
 
 /**
  * Created by HyeHailyn on 10/20/2016.
@@ -38,13 +37,13 @@ public class ViewPagerAdapter extends FragmentPagerAdapter {
                 fragment = new Fragment_Complaints();
                 break;
             case 2:
-                fragment = new Fragment_Found_and_Loss();
+                fragment = new Fragment_Service_Board();
                 break;
             case 3:
                 fragment = new Fragment_BuyandSell();
                 break;
             case 4:
-                fragment = new Fragment_NoticeBoard();
+                fragment = new Notifications();
                 break;
             case 5:
                 fragment = new Fragment_About_us();
@@ -107,7 +106,7 @@ public class ViewPagerAdapter extends FragmentPagerAdapter {
             case 4:
 
 
-                    title = "Notice Board";
+                    title = "Feedback and Query";
 
 
 

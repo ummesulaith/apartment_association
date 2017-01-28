@@ -11,10 +11,11 @@ import android.widget.LinearLayout;
 
 import info.androidhive.listviewfeed.R;
 import info.androidhive.listviewfeed.activity.Home;
+import info.androidhive.listviewfeed.fragment.Notifications;
 
 
 public class Fragment_Home_List extends Fragment {
-   public LinearLayout l_aboutus,l_buyandsell,l_events,l_found,l_notice,l_complaints;
+   public LinearLayout l_payment,l_buyandsell,l_events,l_found,l_noticeboard,l_complaints;
 
     public Fragment_Home_List() {
         // Required empty public constructor
@@ -35,27 +36,32 @@ public class Fragment_Home_List extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View rootView = inflater.inflate(R.layout.fragment_fragment__home__list, container, false);
-        l_aboutus =(LinearLayout)rootView.findViewById(R.id.about);
+        l_payment =(LinearLayout)rootView.findViewById(R.id.payment);
         l_buyandsell =(LinearLayout)rootView.findViewById(R.id.buyandsell);
         l_complaints =(LinearLayout)rootView.findViewById(R.id.complaints);
         l_found =(LinearLayout)rootView.findViewById(R.id.foundandloss);
         l_events =(LinearLayout)rootView.findViewById(R.id.events);
+        l_noticeboard=(LinearLayout)rootView.findViewById(R.id.feedquery) ;
+
+
         Home.title.setText("Dashboard");
 
 
-        l_aboutus.setOnClickListener(new View.OnClickListener() {
+        l_payment.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
                 FragmentManager fragmentManager = getFragmentManager();
                 FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 
-                Fragment_About_us mAboutFragment = new Fragment_About_us();
-                fragmentTransaction.add(R.id.Container, mAboutFragment);
-                fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);                fragmentTransaction.addToBackStack(null);
+                Payment mAboutFragment = new Payment();
+                fragmentTransaction.replace(R.id.Container, mAboutFragment);
+               // fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
+                //              fragmentTransaction.addToBackStack(null);
+                fragmentTransaction.addToBackStack("null");
                 fragmentTransaction.commit();
-                fragmentTransaction.addToBackStack("about");
-                Home.title.setText("About");
+
+                Home.title.setText(" Payment ");
             }
         });
 
@@ -99,14 +105,15 @@ public class Fragment_Home_List extends Fragment {
                 FragmentManager fragmentManager = getFragmentManager();
                 FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 
-                Fragment_Found_and_Loss mAboutFragment = new Fragment_Found_and_Loss();
+                Fragment_Service_Board mAboutFragment = new Fragment_Service_Board();
                 fragmentTransaction.replace(R.id.Container, mAboutFragment);
                 fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);   fragmentTransaction.addToBackStack(null);
                 fragmentTransaction.commit();
 
                 Home.title.setText("Service Board");
             }
-        }); l_events.setOnClickListener(new View.OnClickListener() {
+        });
+        l_events.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
@@ -115,16 +122,29 @@ public class Fragment_Home_List extends Fragment {
 
                 Fragment_MyEvents mAboutFragment = new Fragment_MyEvents();
                 fragmentTransaction.add(R.id.Container, mAboutFragment);
-                fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);   fragmentTransaction.addToBackStack(null);
+                fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
+                fragmentTransaction.addToBackStack(null);
                 fragmentTransaction.commit();
 
                 Home.title.setText("Events");
             }
         });
+        l_noticeboard.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
 
+                FragmentManager fragmentManager = getFragmentManager();
+                FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 
+                Notifications mAboutFragment = new Notifications();
+                fragmentTransaction.replace(R.id.Container, mAboutFragment);
+                fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
+                fragmentTransaction.addToBackStack(null);
+                fragmentTransaction.commit();
 
-
+                Home.title.setText("Feedback/Query");
+            }
+        });
         return rootView;
 
 

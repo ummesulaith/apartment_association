@@ -18,12 +18,17 @@ import android.view.animation.AnimationUtils;
 import android.widget.TextView;
 
 import info.androidhive.listviewfeed.Frag_ment.Fragment_Home_List;
+import info.androidhive.listviewfeed.Frag_ment.My_services;
 import info.androidhive.listviewfeed.R;
 import info.androidhive.listviewfeed.activity.Home;
+
+
 import info.androidhive.listviewfeed.fragment.Fragment_Events;
 import info.androidhive.listviewfeed.fragment.Fragment_MyNotifications;
 import info.androidhive.listviewfeed.fragment.Fragment_Profile;
 import info.androidhive.listviewfeed.fragment.Fragment_Socity;
+
+import static info.androidhive.listviewfeed.R.id.textView8;
 
 
 /**
@@ -32,8 +37,10 @@ import info.androidhive.listviewfeed.fragment.Fragment_Socity;
 public class DrawerFragment extends Fragment implements View.OnClickListener {
 
     static DrawerLayout drawerLayout;
-    private TextView textView, textView1, textView2, textView3, textView4, textView5, textView6 ;
+    public TextView textView, textView1, textView2, textView3, textView4, textView5, textView6,textView8,textView55;
     ViewPager viewPager;
+    private TextView txtLogout;
+
 
     public static DrawerFragment newInstance(DrawerLayout drawer) {
         // Required empty public constructor
@@ -71,6 +78,14 @@ public class DrawerFragment extends Fragment implements View.OnClickListener {
         view.findViewById(R.id.textView5).startAnimation(animation1);
         view.findViewById(R.id.textView6).startAnimation(animation1);
         view.findViewById(R.id.textView7).startAnimation(animation1);
+        view.findViewById(R.id.textView8).startAnimation(animation1);
+
+
+
+
+
+
+
 
 
     }
@@ -92,6 +107,8 @@ public class DrawerFragment extends Fragment implements View.OnClickListener {
         textView4 = (TextView) view.findViewById(R.id.textView6);
         textView5 = (TextView) view.findViewById(R.id.textView7);
         textView6 = (TextView) view.findViewById(R.id.churchname);
+        textView8 = (TextView) view.findViewById(R.id.textView8);
+        textView55=(TextView) view.findViewById(R.id.textView);
 
 
 //            textView.setText("Fragment_Events");
@@ -110,8 +127,14 @@ public class DrawerFragment extends Fragment implements View.OnClickListener {
         view.findViewById(R.id.textView5).setOnClickListener(this);
         view.findViewById(R.id.textView6).setOnClickListener(this);
         view.findViewById(R.id.textView7).setOnClickListener(this);
+        view.findViewById(R.id.textView8).setOnClickListener(this);
 
     }
+  /* private void logout() {
+       session.setLoggedin(false);
+       getActivity().finish();
+   }**/
+
 
     @Override
     public void onClick(View v) {
@@ -155,7 +178,8 @@ public class DrawerFragment extends Fragment implements View.OnClickListener {
 
                 Fragment_Socity mAboutFragment2 = new Fragment_Socity();
                 fragmentTransaction2.replace(R.id.Container, mAboutFragment2);
-                fragmentTransaction2.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);   fragmentTransaction2.addToBackStack(null);
+                fragmentTransaction2.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
+                fragmentTransaction2.addToBackStack(null);
                 fragmentTransaction2.commit();
 
                 Home.title.setText("My Society");
@@ -167,7 +191,8 @@ public class DrawerFragment extends Fragment implements View.OnClickListener {
 
                 Fragment_Events mAboutFragment3 = new Fragment_Events();
                 fragmentTransaction3.replace(R.id.Container, mAboutFragment3);
-                fragmentTransaction3.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);   fragmentTransaction3.addToBackStack(null);
+                fragmentTransaction3.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
+                fragmentTransaction3.addToBackStack(null);
                 fragmentTransaction3.commit();
 
                 Home.title.setText("My Events");
@@ -180,7 +205,8 @@ public class DrawerFragment extends Fragment implements View.OnClickListener {
 
                 Fragment_MyNotifications mAboutFragment4 = new Fragment_MyNotifications();
                 fragmentTransaction4.replace(R.id.Container, mAboutFragment4);
-                fragmentTransaction4.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);   fragmentTransaction4.addToBackStack(null);
+                fragmentTransaction4.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
+                fragmentTransaction4.addToBackStack(null);
                 fragmentTransaction4.commit();
 
                 Home.title.setText("My Notifications");
@@ -190,9 +216,28 @@ public class DrawerFragment extends Fragment implements View.OnClickListener {
             getActivity().finish();
                 break;
 
+            case R.id.textView8:
+                FragmentManager fragmentManager5 = getFragmentManager();
+                FragmentTransaction fragmentTransaction5 = fragmentManager5.beginTransaction();
+
+                My_services mAboutFragment5 = new My_services();
+                fragmentTransaction5.replace(R.id.Container, mAboutFragment5);
+                fragmentTransaction5.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
+                fragmentTransaction5.addToBackStack(null);
+                fragmentTransaction5.commit();
+
+                Home.title.setText("My Services");
+                break;
+
+
+
+                }
+
+            }
+
         }
 
-    }
 
 
-}
+
+

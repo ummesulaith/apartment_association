@@ -5,6 +5,7 @@ package info.androidhive.listviewfeed.Database;
  */
 
 import android.content.Context;
+import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
@@ -13,14 +14,27 @@ import android.content.ContentValues;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.util.Log;
 
 /**
  * Created by Umme on 07-Jan-17.
  */
 public class DatabaseHelper extends SQLiteOpenHelper {
     private static  final int DATABASE_VERSION= 2;
+   public static final String TAG = DatabaseHelper.class.getSimpleName();
+   // public static final String DB_NAME = "myapp.db";
+    //public static final int DB_VERSION = 1;
+
+
     //SOCIETY
     public static final String DATABASE_NAME = "Society.db";
+
+    //User
+    public static final String USER_TABLE = "users";
+    public static final String COLUMN_ID = "_id";
+    public static final String COLUMN_EMAIL = "email";
+    public static final String COLUMN_PASS = "password";
+
     public static final String TABLE_NAME = "society_table";
     public static final String COL_1 = "ID";
     public static final String COL_2 = "S_NAME";
@@ -118,15 +132,21 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     public static final String TB9_COL_5 = "USER_ID";
     public static final String TB9_COL_6 = "SOCIETY_ID";
 
+    public static final String CREATE_TABLE_USERS = "CREATE TABLE " + USER_TABLE + "("
+            + COLUMN_ID + " INTEGER PRIMARY KEY AUTOINCREMENT,"
+            + COLUMN_EMAIL + " TEXT,"
+            + COLUMN_PASS + " TEXT);";
 
     public DatabaseHelper(Context context) {
         super(context, DATABASE_NAME, null, 2);
+      //  SQLiteDatabase db = this.getWritableDatabase();
 
 
     }
 
     @Override
     public void onCreate(SQLiteDatabase db) {
+
         db.execSQL("create table " + TABLE_NAME + " (ID INTEGER PRIMARY KEY AUTOINCREMENT,S_NAME TEXT,S_ADDRESS TEXT,S_BLOCK NO INTEGER,S_BUILDER NAME TEXT,S_PINCODE INTEGER)");
         db.execSQL("create table " + TABLE_NAME1 + " (ID INTEGER PRIMARY KEY AUTOINCREMENT,UNAME TEXT,NAME TEXT,FLAT_NO VARCHAR,EMAIL  VARCHAR,CONTACT_NO INTEGER,SOCIETY_ID INTEGER)");
         db.execSQL("create table " + TABLE_NAME2 + " (ID INTEGER PRIMARY KEY AUTOINCREMENT,SERVICE_PERSON TEXT,DOS INTEGER,SERVICE_TYPE TEXT,USER_ID  INTEGER)");
@@ -137,6 +157,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         db.execSQL("create table " + TABLE_NAME7 + " (C_ID INTEGER,TYPE TEXT,DESCRIPTION TEXT,TIMESTAMP INTEGER,PRIORITY TEXT,USER_ID INTEGER,SOCIETY_ID INTEGER)");
         db.execSQL("create table " + TABLE_NAME8 + " (INVOICE INTEGER,MODE_PAY TEXT,CHARGES INTEGER,TIMESTAMP INTEGER,USER_ID INTEGER,SOCIETY_ID INTEGER)");
         db.execSQL("create table " + TABLE_NAME9 + " (ID INTEGER,SUBJECT TEXT,DESCRIPTION TEXT,TIMESTAMP INTEGER,USER_ID INTEGER,SOCIETY_ID INTEGER)");
+        db.execSQL(CREATE_TABLE_USERS);
     }
 
     @Override
@@ -151,10 +172,11 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         db.execSQL("DROP TABLE IF EXISTS "+TABLE_NAME7);
         db.execSQL("DROP TABLE IF EXISTS "+TABLE_NAME8);
         db.execSQL("DROP TABLE IF EXISTS "+TABLE_NAME9);
+        db.execSQL("DROP TABLE IF EXISTS " + USER_TABLE);
         onCreate(db);
 
     }
-    public boolean insertData(String uname,String name,String flat ,String email,String contact){
+    /*public boolean insertData(String uname,String name,String flat ,String email,String contact){
      SQLiteDatabase db = this.getWritableDatabase();
      ContentValues contentValues = new ContentValues();
      contentValues.put(TB1_COL_2,uname);
@@ -162,12 +184,45 @@ public class DatabaseHelper extends SQLiteOpenHelper {
      contentValues.put(TB1_COL_4,flat);
      contentValues.put(TB1_COL_5,email );
      contentValues.put(TB1_COL_6,contact);
+
      long result = db.insert(TABLE_NAME1,null ,contentValues);
      if(result == -1)
      return false;
      else
      return true;
-     }
+     }*/
+
+    public void addUser(String email, String password) {
+        SQLiteDatabase db = this.getWritableDatabase();
+
+        ContentValues values = new ContentValues();
+        values.put(COLUMN_EMAIL, email);
+        values.put(COLUMN_PASS, password);
+
+        long id = db.insert(USER_TABLE, null, values);
+        db.close();
+
+        Log.d(TAG, "user inserted" + id);
+    }
+    public boolean getUser(String email, String pass){
+        //HashMap<String, String> user = new HashMap<String, String>();
+        String selectQuery = "select * from  " + USER_TABLE + " where " +
+                COLUMN_EMAIL + " = " + "'"+email+"'" + " and " + COLUMN_PASS + " = " + "'"+pass+"'";
+
+        SQLiteDatabase db = this.getReadableDatabase();
+        Cursor cursor = db.rawQuery(selectQuery, null);
+        // Move to first row
+        cursor.moveToFirst();
+        if (cursor.getCount() > 0) {
+
+            return true;
+        }
+        cursor.close();
+        db.close();
+
+        return false;
+    }
+
 }
 
 

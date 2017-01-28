@@ -36,7 +36,6 @@ import info.androidhive.listviewfeed.fragment.Fragment_Profile;
 
 public class Home extends AppCompatActivity {
 
-
   // DatabaseHelper myDb;
     //EditText editTextusername,editTextname,editTextflatno,editTextemail ,editTextcontactno;
   // Button btnsave;
@@ -48,14 +47,16 @@ public class Home extends AppCompatActivity {
     ActionBarDrawerToggle drawerToggle;
      public static TextView title;
 
+    private Button btnLogout;
+    private Session session;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
-    //  myDb = new DatabaseHelper(this);
-
-
+        //  myDb = new DatabaseHelper(this);
 
 
         initialize1();
@@ -72,16 +73,32 @@ public class Home extends AppCompatActivity {
         FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 
         Fragment_Home_List mAboutFragment = new Fragment_Home_List();
-        fragmentTransaction.replace(R.id.Container, mAboutFragment,"home");
+        fragmentTransaction.replace(R.id.Container, mAboutFragment, "home");
         fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
         fragmentTransaction.commit();
 
-       // AddSave();
 
 
-
+        session = new Session(this);
+        if(!session.loggedin()){
+            logout();
+        }
+        btnLogout = (Button)findViewById(R.id.btnlogout);
+        btnLogout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                logout();
+            }
+        });
     }
 
+       // AddSave();
+
+    private void logout(){
+        session.setLoggedin(false);
+        finish();
+        startActivity(new Intent(Home.this,Login.class));
+    }
 
 
     public void initialize1() {

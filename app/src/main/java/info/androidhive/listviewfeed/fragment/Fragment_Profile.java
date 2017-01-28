@@ -48,21 +48,21 @@ public class Fragment_Profile extends Fragment {
         editTextcontactno = (EditText) v.findViewById(R.id.editTextcontactno);
         editTextflatno = (EditText) v.findViewById(R.id.editTextflatno);
         btnsave = (Button) v.findViewById(R.id.btnsave);
-        AddData();
+        //AddData();
         return v;
 
     }
 
-    public void AddData() {
+/*    public void AddData() {
         btnsave.setOnClickListener(
                 new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
                         DatabaseHelper myDb = new DatabaseHelper(getActivity());
-                        boolean isInserted = myDb.insertData(editTextname.getText().toString(),
-                                editTextusername.getText().toString(), editTextemail.getText().toString(),
-                                editTextcontactno.getText().toString(), editTextflatno.getText().toString());
-                        if (isInserted == true)
+                       // boolean isInserted = myDb.insertData(editTextname.getText().toString(),
+                             //   editTextusername.getText().toString(), editTextemail.getText().toString(),
+                               // editTextcontactno.getText().toString(), editTextflatno.getText().toString());
+                        /*if (isInserted == true)
                             Toast.makeText(getActivity(), "Data Inserted", Toast.LENGTH_LONG).show();
                         else
                             Toast.makeText(getActivity(), "Data not Inserted", Toast.LENGTH_LONG).show();
@@ -70,7 +70,7 @@ public class Fragment_Profile extends Fragment {
                     }
                 }
         );
-    }
+    }*/
 }
 
 

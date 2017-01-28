@@ -5,8 +5,7 @@
     android:id="@+id/drawer_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:fitsSystemWindows="true"
-    >
+    android:fitsSystemWindows="true">
 
 
     <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -16,52 +15,60 @@
         android:layout_height="match_parent"
         android:fitsSystemWindows="true"
         tools:context="com.snyxius.mw3dk_patients.activities.Home">
+
         <android.support.design.widget.AppBarLayout
             android:layout_width="match_parent"
-            android:background="#99ffffff"
             android:layout_height="wrap_content"
-            >
+            android:background="#99ffffff">
 
-           <FrameLayout
-               android:layout_width="match_parent"
-               android:background="#99ffffff"
-               android:layout_height="match_parent">
-               <android.support.v7.widget.Toolbar
-                   android:id="@+id/toolbar"
-                   android:layout_width="match_parent"
-                   android:layout_height="?attr/actionBarSize"
-                   android:background="#f7f7f7"
-                   app:layout_scrollFlags="scroll|enterAlways"
-                   app:popupTheme="@style/AppTheme.PopupOverlay">
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#99ffffff">
 
-
-
-               </android.support.v7.widget.Toolbar>
-               <TextView
-                   android:id="@+id/title"
-                   android:layout_gravity="center"
-                   android:textSize="18sp"
-                   android:padding="@dimen/activity_horizontal_margin"
-                   android:gravity="center"
-
-                   android:textAppearance="@style/TextAppearance.AppCompat.Large"
-                   android:text="Title"
-                   android:layout_width="wrap_content"
-                   android:layout_height="wrap_content" />
-           </FrameLayout>
+                <android.support.v7.widget.Toolbar
+                    android:id="@+id/toolbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="?attr/actionBarSize"
+                    android:background="#f7f7f7"
+                    app:layout_scrollFlags="scroll|enterAlways"
+                    app:popupTheme="@style/AppTheme.PopupOverlay">
 
 
-<View
-    android:layout_width="match_parent"
-    android:layout_height="1dp"
-    android:background="#c65e5e5e"></View>
+                </android.support.v7.widget.Toolbar>
+
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+
+                    android:padding="@dimen/activity_horizontal_margin"
+                    android:text="Title"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                    android:textSize="18sp" />
+
+                <Button
+                    android:id="@+id/btnlogout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="300dp"
+                    android:text="logout" />
+            </FrameLayout>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#c65e5e5e"></View>
 
 
         </android.support.design.widget.AppBarLayout>
 
         <FrameLayout
-            android:layout_width="match_parent"
             android:id="@+id/Container"
+            android:layout_width="match_parent"
             android:layout_height="match_parent">
 
 
@@ -77,7 +84,6 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         android:background="@android:color/white" />
-
 
 
 </android.support.v4.widget.DrawerLayout>
