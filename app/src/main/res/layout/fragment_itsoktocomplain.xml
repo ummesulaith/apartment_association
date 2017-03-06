@@ -15,7 +15,7 @@
         android:gravity="center"
         android:paddingLeft="8dp"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:text=" ! Its ok to Complain "
+        android:text="Its ok to Complain"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textStyle="bold"/>
@@ -178,11 +178,11 @@
             android:layout_height="wrap_content" >
 
             <Button
-                android:id="@+id/button1"
+                android:id="@+id/buttonphoto"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text=" @Photos "
+                android:text="Photos "
                 android:textSize="20sp"/>
 
             <Button
@@ -190,33 +190,34 @@
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text=" @Videos "
+                android:text="Videos "
                 android:textSize="20sp"/>
 
             <Button
-                android:id="@+id/button3"
+                android:id="@+id/buttonvoice"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:text=" @Voice "
+                android:text="Voice "
                 android:textSize="20sp"/>
 
         </LinearLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text=" Submit Complain "
+            android:textSize="15dp"
+            android:id="@+id/submit"/>
+
         <View
             android:id="@+id/sep4"
             android:layout_width="match_parent"
             android:layout_height="25dp"
             android:layout_marginBottom="5dp"
             android:background="#FFFAFA" />
-        <ScrollView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"></ScrollView>
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text=" Submit Complain !!! "
-            android:textSize="25sp"
-            />
-        </LinearLayout>
+
+
+    </LinearLayout>
 </LinearLayout>
 

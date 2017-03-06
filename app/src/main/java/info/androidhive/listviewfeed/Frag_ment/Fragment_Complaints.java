@@ -44,11 +44,8 @@ public class Fragment_Complaints extends Fragment {
         lv2 = (ListView) rootView.findViewById(R.id.details);
         // lv3 = (ListView) rootView.findViewById(R.id.listview2);
         al1 = new ArrayList<String>();
-        al1.add("Item 1");
-        al1.add("Item 2");
-        al1.add("Item 3");
-        al1.add("Item 4");
-        al1.add("Item 5");
+        al1.add("Complaint 1");
+
         ac = new ArrayAdapter<String>(getActivity().getApplicationContext(), android.R.layout.simple_list_item_1, al1);
         // ac = new ArrayAdapter<String>(getActivity().getApplicationContext(),android.R.layout.simple_list_item_2);
         //ad = new ArrayAdapter<String>(getActivity().getApplicationContext(),android.R.layout.simple_list_item_1);

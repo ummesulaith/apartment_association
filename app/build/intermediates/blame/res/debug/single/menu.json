@@ -1,18 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main2.xml",
-        "source": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\src\\main\\res\\menu\\main2.xml"
+        "merged": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main2.xml",
+        "source": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\src\\main\\res\\menu\\main2.xml"
     },
     {
-        "merged": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_home.xml",
-        "source": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\src\\main\\res\\menu\\menu_home.xml"
+        "merged": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
-        "source": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\src\\main\\res\\menu\\global.xml"
+        "merged": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\src\\main\\res\\menu\\global.xml"
     },
     {
-        "merged": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\option.xml",
+        "source": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\src\\main\\res\\menu\\option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_home.xml",
+        "source": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\src\\main\\res\\menu\\menu_home.xml"
     }
 ]

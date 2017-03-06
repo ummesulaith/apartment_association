@@ -52,7 +52,7 @@
          <TextView
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
-             android:text="Newer"
+             android:text="Invites from users"
              android:textSize="30sp"
              android:textColor="#000"
              android:textStyle="bold"/>
@@ -60,33 +60,12 @@
             <ListView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/listview1">
+                android:id="@+id/listview1"
+                android:theme="@style/AppTheme">
 
             </ListView>
         </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:orientation="vertical"
-            android:layout_weight="1">
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Older"
-                android:textSize="30sp"
-                android:textColor="#000"
-                android:textStyle="bold"/>
-
-            <ListView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:id="@+id/listview2">
-
-            </ListView>
-        </LinearLayout>
+    </LinearLayout>
 
     </LinearLayout>
 
-</LinearLayout>

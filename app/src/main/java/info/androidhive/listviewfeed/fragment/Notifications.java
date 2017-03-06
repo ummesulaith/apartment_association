@@ -48,8 +48,8 @@ public class Notifications extends Fragment {
                 fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
                 fragmentTransaction.addToBackStack(null);
                 fragmentTransaction.commit();
-                fragmentTransaction.addToBackStack("Feedback/Query");
-               // Home.title.setText(" Feedback ");
+                fragmentTransaction.addToBackStack("Feedback");
+               Home.title.setText(" Feedback ");
             }
         });
 
@@ -62,15 +62,13 @@ public class Notifications extends Fragment {
 
                 Query f2 = new Query();
                 fragmentTransaction.replace(R.id.Container, f2);
-                fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
+              //  fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
                 fragmentTransaction.addToBackStack(null);
                 fragmentTransaction.commit();
-                fragmentTransaction.addToBackStack("Feedback/Query");
+                fragmentTransaction.addToBackStack("Query");
                // Home.title.setText(" Feedback ");
             }
         });
         return v;
     }
-
-
 }

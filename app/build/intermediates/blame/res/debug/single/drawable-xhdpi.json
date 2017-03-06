@@ -1,22 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\foundloss.png",
+        "source": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\foundloss.png"
     },
     {
-        "merged": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\comedy.png",
-        "source": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\comedy.png"
+        "merged": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\foundloss.png",
-        "source": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\foundloss.png"
+        "merged": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\comedy.png",
+        "source": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\comedy.png"
     },
     {
-        "merged": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\drawer_shadow.9.png",
-        "source": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+        "merged": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_drawer.png",
+        "source": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
     },
     {
-        "merged": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_drawer.png",
-        "source": "C:\\Users\\Umme\\Desktop\\w\\new_updated\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+        "merged": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\drawer_shadow.9.png",
+        "source": "C:\\Users\\Umme\\Desktop\\RevApp\\app\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
     }
 ]

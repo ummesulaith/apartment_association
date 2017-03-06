@@ -2,11 +2,7 @@ package info.androidhive.listviewfeed.activity;
 
 
 import android.content.Intent;
-import android.database.Cursor;
-import android.graphics.BitmapFactory;
-import android.net.Uri;
 import android.os.Bundle;
-import android.provider.MediaStore;
 import android.support.design.widget.TabLayout;
 
 
@@ -19,24 +15,25 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
-import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 
-import info.androidhive.listviewfeed.Database.DatabaseHelper;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+
 import info.androidhive.listviewfeed.R;
 import info.androidhive.listviewfeed.Frag_ment.Fragment_Home_List;
-import info.androidhive.listviewfeed.fragment.Fragment_Profile;
 import info.androidhive.listviewfeed.naviadapter.Constants;
 import info.androidhive.listviewfeed.naviadapter.DrawerFragment;
 import info.androidhive.listviewfeed.naviadapter.ViewPagerAdapter;
-import info.androidhive.listviewfeed.fragment.Fragment_Profile;
 
-public class Home extends AppCompatActivity {
+public class Home extends AppCompatActivity implements View.OnClickListener {
 
-  // DatabaseHelper myDb;
+    private FirebaseAuth firebaseAuth;
+    // private TextView textViewUserEmail;
+
+
+    // DatabaseHelper myDb;
     //EditText editTextusername,editTextname,editTextflatno,editTextemail ,editTextcontactno;
   // Button btnsave;
     TabLayout tabLayout;
@@ -48,7 +45,8 @@ public class Home extends AppCompatActivity {
      public static TextView title;
 
     private Button btnLogout;
-    private Session session;
+
+   // private TextView tvEmail;
 
 
 
@@ -58,6 +56,19 @@ public class Home extends AppCompatActivity {
         setContentView(R.layout.activity_home);
         //  myDb = new DatabaseHelper(this);
 
+
+
+
+        firebaseAuth = FirebaseAuth.getInstance();
+
+        if (firebaseAuth.getCurrentUser() == null) {
+            finish();
+            startActivity(new Intent(this, Login.class));
+        }
+        FirebaseUser user = firebaseAuth.getCurrentUser();
+
+        btnLogout = (Button) findViewById(R.id.btnlogout);
+        btnLogout.setOnClickListener(this);
 
         initialize1();
 
@@ -79,26 +90,24 @@ public class Home extends AppCompatActivity {
 
 
 
-        session = new Session(this);
-        if(!session.loggedin()){
-            logout();
+
+    }
+
+    @Override
+    public void onClick(View view) {
+        if(view == btnLogout){
+            firebaseAuth.signOut();
+            finish();
+            startActivity(new Intent(this, Login.class));
+
+
+
         }
-        btnLogout = (Button)findViewById(R.id.btnlogout);
-        btnLogout.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                logout();
-            }
-        });
     }
 
        // AddSave();
 
-    private void logout(){
-        session.setLoggedin(false);
-        finish();
-        startActivity(new Intent(Home.this,Login.class));
-    }
+
 
 
     public void initialize1() {
@@ -147,6 +156,7 @@ public class Home extends AppCompatActivity {
 
 
     }
+
 
 
 

@@ -1,5 +1,6 @@
 package info.androidhive.listviewfeed.Frag_ment;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -47,13 +48,11 @@ public class Fragment_MyComplaints extends Fragment {
         // Inflate the layout for this fragment
         View rootView = inflater.inflate(R.layout.my_complaints, container, false);
         lv = (ListView) rootView.findViewById(R.id.listview3);
+        lv.setBackgroundColor(Color.LTGRAY);
 
         al = new ArrayList<String>();
         al.add("Complaint 1");
-        al.add("Complaint 2");
-        al.add("Complaint 3");
-        al.add("Complaint 4");
-        al.add("Complaint 5");
+        
         aa = new ArrayAdapter<String>(getActivity().getApplicationContext(),android.R.layout.simple_list_item_1,al);
         lv.setAdapter(aa);
         return rootView;

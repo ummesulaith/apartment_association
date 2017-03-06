@@ -1,6 +1,7 @@
 package info.androidhive.listviewfeed.Frag_ment;
 
 import android.content.Intent;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -19,6 +20,8 @@ import java.util.ArrayList;
 import info.androidhive.listviewfeed.R;
 import info.androidhive.listviewfeed.activity.Home;
 import info.androidhive.listviewfeed.fragment.Fragment_AddEvent;
+
+import static info.androidhive.listviewfeed.R.id.listview1;
 
 public class Fragment_MyEvents extends Fragment {
     public Button b;
@@ -46,17 +49,17 @@ public class Fragment_MyEvents extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View rootView = inflater.inflate(R.layout.fragment_fragment__my_events, container, false);
-        lv = (ListView) rootView.findViewById(R.id.listview1);
-        lv1 = (ListView) rootView.findViewById(R.id.listview2);
+        lv = (ListView) rootView.findViewById(listview1);
+        lv.setBackgroundColor(Color.LTGRAY);
+
         al = new ArrayList<String>();
-        al.add("Item 1");
-        al.add("Item 2");
-        al.add("Item 3");
-        al.add("Item 4");
-        al.add("Item 5");
+        al.add("Invite 1");
+        al.add("Invite 2");
+
         aa = new ArrayAdapter<String>(getActivity().getApplicationContext(),android.R.layout.simple_list_item_1,al);
         lv.setAdapter(aa);
-        lv1.setAdapter(aa);
+
+
         b = (Button) rootView.findViewById(R.id.btnnew);
         b.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -87,7 +90,7 @@ public class Fragment_MyEvents extends Fragment {
            }
        });
 
-        lv1.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+     /**   lv1.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
 
@@ -98,7 +101,7 @@ public class Fragment_MyEvents extends Fragment {
                         .commit();
                 Home.title.setText(" Event Details");
             }
-        });
+        });**/
         return rootView;
 
     }

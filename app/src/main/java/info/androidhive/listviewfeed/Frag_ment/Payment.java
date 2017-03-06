@@ -15,14 +15,7 @@ import android.widget.Button;
 import info.androidhive.listviewfeed.R;
 import info.androidhive.listviewfeed.activity.Home;
 
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link Payment.OnFragmentInteractionListener} interface
- * to handle interaction events.
- * Use the {@link Payment#newInstance} factory method to
- * create an instance of this fragment.
- */
+
 public class Payment extends Fragment {
     Button b;
 
@@ -31,15 +24,6 @@ public class Payment extends Fragment {
         // Required empty public constructor
     }
 
-    // TODO: Rename and change types and number of parameters
-    public static Payment newInstance(String param1, String param2) {
-        Payment fragment = new Payment();
-        Bundle args = new Bundle();
-        //args.putString( ARG_PARAM1, param1 );
-        //args.putString( ARG_PARAM2, param2 );
-        fragment.setArguments( args );
-        return fragment;
-    }
 
 
     @Override
@@ -61,7 +45,6 @@ public class Payment extends Fragment {
                 fragmentTransaction.addToBackStack( null );
                 fragmentTransaction.commit();
                 fragmentTransaction.addToBackStack( "Payment" );
-                Home.title.setText( " Payment done here !! " );
             }
         } );
 

@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="info.androidhive.listviewfeed.Frag_ment.electronics_appliances_fragment">
+
+    <FrameLayout
+        android:layout_width="364dp"
+        android:layout_height="550dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginBottom="50dp">
+        <GridView
+            android:id="@+id/gridview1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:columnWidth="110dp"
+            android:drawSelectorOnTop="true"
+            android:gravity="center"
+            android:numColumns="3"
+            android:stretchMode="columnWidth"
+            android:focusable="true"
+            android:verticalSpacing="0dp"
+            />
+
+    </FrameLayout>
+
+
+</LinearLayout>
+
+
+
+

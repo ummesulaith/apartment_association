@@ -40,7 +40,7 @@ public class Fragment_Home_List extends Fragment {
         l_buyandsell =(LinearLayout)rootView.findViewById(R.id.buyandsell);
         l_complaints =(LinearLayout)rootView.findViewById(R.id.complaints);
         l_found =(LinearLayout)rootView.findViewById(R.id.foundandloss);
-        l_events =(LinearLayout)rootView.findViewById(R.id.events);
+        l_events =(LinearLayout)rootView.findViewById(R.id.eventss);
         l_noticeboard=(LinearLayout)rootView.findViewById(R.id.feedquery) ;
 
 
@@ -73,7 +73,7 @@ public class Fragment_Home_List extends Fragment {
                 FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 
                 Fragment_BuyandSell mAboutFragment = new Fragment_BuyandSell();
-                fragmentTransaction.add(R.id.Container, mAboutFragment);
+                fragmentTransaction.replace(R.id.Container, mAboutFragment);
                 //fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
 
                 fragmentTransaction.addToBackStack(null);
@@ -107,7 +107,8 @@ public class Fragment_Home_List extends Fragment {
 
                 Fragment_Service_Board mAboutFragment = new Fragment_Service_Board();
                 fragmentTransaction.replace(R.id.Container, mAboutFragment);
-                fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);   fragmentTransaction.addToBackStack(null);
+                fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
+                fragmentTransaction.addToBackStack(null);
                 fragmentTransaction.commit();
 
                 Home.title.setText("Service Board");
@@ -121,7 +122,7 @@ public class Fragment_Home_List extends Fragment {
                 FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 
                 Fragment_MyEvents mAboutFragment = new Fragment_MyEvents();
-                fragmentTransaction.add(R.id.Container, mAboutFragment);
+                fragmentTransaction.replace(R.id.Container, mAboutFragment);
                 fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
                 fragmentTransaction.addToBackStack(null);
                 fragmentTransaction.commit();
@@ -147,14 +148,6 @@ public class Fragment_Home_List extends Fragment {
         });
         return rootView;
 
-
-
-
-
-
     }
-
-
-
 
 }

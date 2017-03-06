@@ -136,7 +136,8 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Send Invitations"/>
+        android:text="Send Invitations"
+        android:id="@+id/invite"/>
         </LinearLayout>
 </ScrollView>
 </LinearLayout>

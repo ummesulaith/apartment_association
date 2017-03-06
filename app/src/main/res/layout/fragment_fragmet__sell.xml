@@ -26,7 +26,9 @@
         android:layout_height="1dp"
         android:layout_marginBottom="5dp"
         android:background="#858585" />
-
+<android.support.v4.widget.NestedScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -127,7 +129,7 @@
                 android:textColor="#000"
                 android:textStyle="bold"/>
 
-            <View
+            <EditText
                 android:id="@+id/sep1"
                 android:layout_width="match_parent"
                 android:layout_height="73dp"
@@ -148,57 +150,44 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Add Photos Here"
+            android:text="Add Photo Here"
             android:background="#0033FF"
-           />
+            android:id="@+id/addphoto"/>
 
 
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical"
+            android:orientation="horizontal"
             android:paddingBottom="10dp"
             android:paddingTop="10dp">
             <TextView
-                android:layout_width="191dp"
-                android:layout_height="wrap_content"
-                android:text=" New "
-                android:textSize="20dp"
-                android:textColor="#000"
-                android:textStyle="bold"/>
-            <EditText
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="wrap_content"
-                android:id="@+id/new1"
-                />
-        </LinearLayout>
-        <ScrollView android:layout_height="match_parent"
-            android:layout_width="match_parent" >
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical"
-            android:paddingBottom="10dp"
-            android:paddingTop="10dp">
-            <TextView
-                android:layout_width="191dp"
-                android:layout_height="wrap_content"
-                android:text=" Used "
+                android:text=" Condition"
                 android:textSize="20dp"
                 android:textColor="#000"
                 android:textStyle="bold"/>
-            <EditText
+            <Spinner
                 android:layout_width="0dp"
-
-                android:layout_height="5dp"
-                android:id="@+id/used"
-                />
-        </LinearLayout>
-        </ScrollView>
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:id="@+id/spp">
+            </Spinner>
 
         </LinearLayout>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Submit ad"
+            android:id="@+id/submitad"/>
+        </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
+
     </LinearLayout>
 
 

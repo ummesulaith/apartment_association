@@ -3,4 +3,9 @@
     <item name="editTextname" type="id" />
     <item name="edname" type="id" />
     <item name="textView8" type="id" />
+    <item name="txtTitle" type="id" />
+    <item name="imageView1" type="id" />
+    <item name="textView1" type="id" />
+    <item name="stub_list" type="id" />
+    <item name="stub_grid" type="id" />
 </resources>

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.2.0_47096ea162930e1f79e54eda3dc78a8778845873.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_55f782b1febb6c15d3a5bdc37f768e3d210a61b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.0_039c6520d4402f190168d6a0b8764f4dc366def1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_5f01e758d89541f0ea30424dde815f6a21a71727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_08681af6f618bd05262ee987e4e6c81bd531e1c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0bed1f415ff550528ffd3e289880f2a57704bea7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_cd6d95af65d9b09b9529cbbc3f1eb86dd402656d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.2_6b08f472c34237d287d3e6a583304cae6d9b7ac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.2.0_aa2e2ec68be676d80f42b6d29e70cc992244b0bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_952aa8f9ce0762d30d71b8e6c917f300fa0460f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.kennileaf.customfonts\librarypack\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4c9d29a007d28f4ac5c0d9658f749e430a761b28">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.kennileaf.customfonts-librarypack-1.0.0_4ad89e3f6259d4050a049ea03a513251d9b624b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_9c54e083a2c31659a02006d5c009c5133e77bf4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_3da5d5e99715e4b94275f951965c3a40cc53b182.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\volley_9dada5248b7137288c4531dd007c1ca55a0424b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9532c786bf7590cfda9a02c3cb5e03c3aad432d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_d094f583702c994275af964f445cd2e8602401db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.0_65c2077d7adccb90852df53242a76a14d486e4f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_7e41993138edb3f271be4eb23731c488d475870b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.5.2_5fb13e6170fd2d3b0190fcb2abf51b6c6d0d9bb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.2.0_448716e00b04d88016516ddf3a33abc11a4bb7e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.0_12d709d1aff9d8ce78cb6e9f9778d0104590729d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_a6da6150e8dba1d77f55c1c1c33e1222a21c6cf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_847d6f7befde92b3d811ba0b31294eac7d8edda8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.2.0_3b97b9f645488a2bebdffb7ea6bead6d712bca52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_f2cd37c53b4961a259fc04b90fdfd6853e4a4081.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_d90dc89063c19cc6ab1ddd3283a4ebc56adacd68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.2.0_66bb62817634f6f14778895d628ca3b585c94ca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\.gradle\caches\modules-2\files-2.1\com.flaviofaria\kenburnsview\1.0.7\ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1\kenburnsview-1.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\kenburnsview-1.0.7_1eed439884d51bb1e73e7ce6a8a29fa0ba7035c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.2.0_e7a30e1344ac259823aea5815b6b0e1197584f90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_64df24f838bbfb45d73e56abaf6a7821838b8e2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_2e0ad463e75c607b43f3776e791ea5ed4f22306f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_f8bf6b35523a68e769f1f43cdd0e46ae414cd205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_d4b27ec4362bad0bf03ecb3627d72a5d09d4927c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_fe5c3fb62f5f715f3ca641071cf56c52498cce21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_1d38c732433e3f044d961f4821403830c61456f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.2.0_78c31525208654456a3d5a7bdca9f8016f720796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_e78d9d0345298711ace12de8f2b091deeff368f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_be3ee75faca04d1f48e50fa551472f1b2105294b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_1bb7ef06b515f05fd060208c63818415be66403e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.0_1ae4a45803d9a5ed88c54e4a66efe5988ea3fdf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Umme\Desktop\RevApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_30c4ac5e1335b5fe37b73e0fd72ee147f77d6419.jar" />
+    </item>
+
+</items>
