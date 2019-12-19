@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kennileaf.customfonts:librarypack:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/librarypack-1.0.0.aar/f12c808626e3d0d42587413d0faf229c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/librarypack-1.0.0.aar/f12c808626e3d0d42587413d0faf229c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kennileaf.customfonts/librarypack/1.0.0/35147c994a0132d0912da5dd55e80bce26635a1b/librarypack-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

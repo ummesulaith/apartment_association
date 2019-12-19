@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.kennileaf.customfonts:librarypack-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/b5ea0f350e54dd38638c3a02fe195d9694ae78e4/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b5ea0f350e54dd38638c3a02fe195d9694ae78e4/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kennileaf.customfonts/librarypack/1.0.0/35147c994a0132d0912da5dd55e80bce26635a1b/librarypack-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
